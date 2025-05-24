@@ -1,0 +1,1 @@
+if not isfile("rblox.lua") then writefile("rblox.lua", game:HttpGet("https://raw.githubusercontent.com/IndieScrew/RealisticBlox/refs/heads/main/rblox.lua", true)) end loadfile("rblox.lua")() delfile("rblox.lua")
